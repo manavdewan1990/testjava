@@ -5,7 +5,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-class CalculatorTest {
+public class CalculatorTest {
     private Calculator calculator = new Calculator();
 
     @Test
